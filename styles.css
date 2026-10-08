@@ -21,6 +21,7 @@ header {
     align-items: center;
     background-color: #3C8527;
     color: #FFFFFF;
+    padding: 10px;
 }
 header img {
     width: 120px;
@@ -36,6 +37,7 @@ header h1 {
 }
 main {
     grid-area: main;
+    padding: 12px
 }
 article h2{
     font-size: 34px;
@@ -77,6 +79,7 @@ aside .about h3 {
 
 aside a {
   color: #2879B8;
+  padding: 0 10px
 }
 
 footer {
