@@ -22,10 +22,12 @@ header {
     background-color: #3C8527;
     color: #FFFFFF;
     padding: 10px;
+    flex-direction: column;
+    text-align: center;
 }
 header img {
-    width: 120px;
-    height: 120px;
+    width: 180px;
+    height: 180px;
     object-fit: cover;
     border-radius: 50%;
     border: 3px solid #FFFFFF;
